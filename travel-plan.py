@@ -54,7 +54,7 @@ st.markdown("""
 
 # Title
 st.markdown('<div class="title">Welcome to the Uttarakhand Trip Planner</div>', unsafe_allow_html=True)
-st.image("utta.jpg", caption="Sunrise by the mountains")
+st.image("utta.jpg", caption=" Kedarnath * place of Mahadev - Jai Shiv Shankar *")
 
 # Horizontal card section with centered buttons
 st.markdown('<div class="trip-section">', unsafe_allow_html=True)
