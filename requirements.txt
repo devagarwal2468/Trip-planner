@@ -1,9 +1,9 @@
 python libraries required to install with ( pip install -)
 
-langchain_google_genai
-langchain_community
-langchain_core
-faiss-cpu
-python-dotenv
-streamlit
-pypdf
+    langchain_google_genai
+    langchain_community
+    langchain_core
+    faiss-cpu
+    python-dotenv
+    streamlit
+    pypdf
